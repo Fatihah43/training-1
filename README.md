@@ -15,19 +15,8 @@ Our mission is to develop tools and technologies that contribute to a more susta
 
     🌍 Environmental impact dashboards and APIs
 
-📂 Repository Structure
 
-.
-├── data/               # Environmental or energy datasets
-├── scripts/            # Scripts for data processing, analysis, or APIs
-├── dashboards/         # Dashboard code (e.g., Streamlit, React)
-├── models/             # ML models (if applicable)
-├── docs/               # Documentation and references
-├── images/             # Diagrams, charts, and illustrations
-├── README.md           # Project overview
-└── requirements.txt    # Dependencies
-
-⚡ Features
+# ⚡ Features
 
     📊 Real-Time Monitoring: Track energy consumption or environmental data
 
@@ -39,22 +28,18 @@ Our mission is to develop tools and technologies that contribute to a more susta
 
     🔗 API Access: Provide green tech data via RESTful API (optional)
 
-🚀 Getting Started
+# 🚀 Getting Started
 1. Clone the Repository
-
 git clone https://github.com/your-username/green-technology.git
 cd green-technology
 
 2. Install Dependencies
-
 pip install -r requirements.txt
 
 3. Run the App (Example: Streamlit Dashboard)
-
 streamlit run dashboards/main_dashboard.py
 
-🧠 Optional: Machine Learning for Green Tech
-
+# 🧠 Optional: Machine Learning for Green Tech
 You can train or deploy models for:
 
     Energy demand prediction
@@ -67,8 +52,7 @@ Example:
 
 python scripts/train_energy_predictor.py
 
-📈 Example Dashboard Screenshot
-
+#📈 Example Dashboard Screenshot
 🌐 Data Sources
 
     OpenEI Energy Data
@@ -77,8 +61,7 @@ python scripts/train_energy_predictor.py
 
     NASA Earth Data
 
-🤝 Contributing
-
+# 🤝 Contributing
 We welcome contributions from developers, environmental scientists, and data enthusiasts!
 
     Fork the repository
@@ -91,8 +74,7 @@ We welcome contributions from developers, environmental scientists, and data ent
 
     Open a pull request
 
-📄 License
-
+#📄 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 📬 Contact
 
